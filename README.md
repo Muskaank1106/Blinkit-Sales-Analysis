@@ -61,7 +61,7 @@ Business Analytics Concepts
 
 
 ## Sample Dashboard
-![Dashboard Screenshot](Screenshot%20(1).png)
+![Dashboard Screenshot](Screenshot_(1).png)
 
 
 ## Key Takeaways & Future Scope
