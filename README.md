@@ -28,7 +28,9 @@ The analysis focuses on:
 
 ## Files in the repository
 
--'
+-'BlinkIT Grocery data.xlsx' - contains the dataset and an interactive dashboard.
+
+-'README.md' - This document explaining the project.
 
 
 ## Steps Covered in Analysis
@@ -55,6 +57,15 @@ Microsoft Excel (Pivot Tables, Functions)
 Data Visualization: Donut Chart, Bar Chart, Stacked Column Chart, Funnel Map, Line Chart, Matrix Card
 
 Business Analytics Concepts
+
+## How to use
+
+1. **Download** 'BlinkIT Grocery data.xlsx' from this respository.
+
+2. **Open it** in Microsoft Excel(recommended : Excel 2016 or later)
+
+3. **Explore** the interactive dashboard to analyze key insights.
+
 
 
 ## Project Structure
