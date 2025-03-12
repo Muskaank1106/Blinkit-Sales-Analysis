@@ -26,6 +26,11 @@ The analysis focuses on:
 **All Metrics by Outlet Type**: A comprehensive breakdown of key performance indicators (KPIs) across different outlet types.
 
 
+## Files in the repository
+
+-'
+
+
 ## Steps Covered in Analysis
 
 **Requirement Gathering**: Understanding business objectives and key metrics.
