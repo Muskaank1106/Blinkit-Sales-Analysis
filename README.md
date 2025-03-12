@@ -62,7 +62,8 @@ Business Analytics Concepts
 
 ## Sample Dashboard
 
-![image](https://github.com/user-attachments/assets/e23c28a0-0a0a-4a9c-b437-6ae4f0d9147d)
+![image](https://github.com/user-attachments/assets/1394997c-b3eb-4fb0-8946-d3f1341f9e55)
+
 
 
 
